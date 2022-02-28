@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation, against regrating of victual, and forestallers, and for regulating the mercats</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92653</idno>
+            <idno type="STC">Wing S1603</idno>
+            <idno type="STC">ESTC R229979</idno>
+            <idno type="EEBO-CITATION">99895757</idno>
+            <idno type="PROQUEST">99895757</idno>
+            <idno type="VID">153313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153313)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation, against regrating of victual, and forestallers, and for regulating the mercats</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Steele notation: Arms 246  Arms, what of.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2358 torn with loss of imprint and some text.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Food law and legislation --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:153313:1"/>
+            <head>PROCLAMATION,
+Againſt Regrating of Victual, and Foreſtallers, and for Regulating the Mercats.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>ILLIAM</hi> By the Grace of GOD, King of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, To
+Macers of Our Privy Council, Meſſengers at Arms,
+Our Sheriffs in that part, conjunctly and ſeveraly ſpecially Conſtitute, Greeting; Forasmuch as, By ſeveral Acts of Parliament, the keep<g ref="char:EOLhyphen"/>ing
+of Victual to a Dearth is ſtrictly prohibited, and particularly, It is Statute by the Acts <hi>James 2d.</hi> Parliament Sixt <hi>Cap.</hi> Twenty
+two and twenty three, that for the eſchewing of Dearth, Sheriffs, Bailiefs and other Officers, both to Burgh and to Land, enquire
+what Perſons buyes Victual, and holds it to a Dearth, and that the ſaid Sheriffs and Officers make ſuch known. That in caſe they
+hold more Victual then will ſuſtain them and their Menzie to New Corn, they may be puniſhed and demeaned as Occorers and Uſurers, and the Victual
+Eſcheated to Us, and that the ſame be preſented to Mercats, and Sold as the price goes. And by the Acts <hi>Ja. 2d.</hi> Par. <hi>9th. Cap.</hi> Thirtie eight and
+thirtie ninth. It is Ordained, That no manner of Victual ſhall be holden in Girnels by any man to a Dearth, but allenarly what is needful for their
+own Perſons and the Suſtentation of their Houſholds, and that the ſaids Perſons preſent all that they have more to the Mercat, under the pain of Eſcheat
+thereof. As likewaayes, the Cryme of Fore-ſtalling is forbidden by ſeveral Acts and Statutes, and particularly, by the Act <hi>Ja. 6. Par. 12. Cap.</hi> one hundred and
+fourty eight, it is Declared, That who buyes any Merchandiſe, or Victual coming to Fair or Mercat, or makes any Contract, or Promiſe for buying of
+the ſame, before the ſaid Merchandſe or Victual ſhall be in the Fair or Mercat place ready to be ſold, or ſhall make any Motion by Word, Write or Meſſage
+for raiſing of the Prices, or dearer Selling of the ſaid Merchandiſe and Victual: Or, who ſhal diſwade any from coming, and bringing the foreſaid Mer<g ref="char:EOLhyphen"/>chandiſe
+or Victual to Fair or Mercat, ſhal be eſteemed and judged a Foreſtaller; And it is Ordained, That all ſuch Foreſtallers may be purſued before
+the Juſtices or Magiſtrates of Burghs, and that without a ſpecial Lybel, but only upon Foreſtalling in general, and the Perſons Convict, to be Fyned
+for the firſt Fault in fourty pounds, and for the ſecond in an hundreth Merks, and for the third to incurr the tinſel of Moveables. And ſeing, through the
+not due obſervance, and Execution of the foreſaid Acts, the Calamity of the Countrey, by the preſent Scarcity and Dearth, is greatly increaſed, there<g ref="char:EOLhyphen"/>fore,
+We, with Advice of the Lords of Our Privy Council have thought fit to revive the <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d Ordains them to be put to ſtrict Execution; And
+for that effect, to impower and require all Sheriffs of Shyres, Stewarts <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+Burghs: As likewiſe, all Commiſſioners of Supply, and Juſtices of Peace, <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> made, <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+contrair to the foreſaids Laws, and to Command and Charge the keepers up of the ſaid victual, in Girnels, or otherwayes co<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+to bring and expoſe the ſame for Sale, in Open and Ordinary Mercats, or otherwayes to open their Girnels, or other Houſes where <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+and there Sell the ſame, as the ſaid Sheriffs, Stewarts of Stewartries, Lords and Baillies of Regalities, and their Deputs and Magiſtrates <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+two of the ſaids Commiſſioners of Supply, or Juſtices of Peace ſhal find the Ordinary Price to rule in the Countrey, for the time. With<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+if they fa<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lz<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e therein, they ſhal be proceeded againſt, and the pains of the foreſaids Acts of Parliament execute upon them, with all rigo<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+the mean time, the Victual Girnelled and unlawfully keeped up, as ſaid is, Arreſted and Sequeſtrat by the foreſaid Sheriff and others, as Eſch<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+further, We with Advice foreſaid, prohibite and diſcharge any Perſon whatſomever, to buy Meal in publick Mercats, but only for private uſe, a<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+wayes to be ſold again by whole Sale, or Retail. And likewayes to buy any other Grain in publick Mercat, to be ſold again in whole Sale, or Retail<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+the ſame kind as it is bought, but either for the private and particular uſe of the buyer or to be firſt made in Malt, or ground in Flower and Meal before
+the Sale of the ſamen. As alſo We, with Advice foreſaid, peremptorily diſcharge and forbid all perſons whatſomever buying Oats or Peas whether in
+publick Mercats, or otherwayes, to Sell the ſame, either in whole Sale, or Retaile, unleſs they be firſt made in Meal, except what Oats are or ſhal be
+bought and Retailed by the Commiſſaries of Our Army, for the Proviſion of the Horſes and Dragoons, preſently imployed in Our Service, and what are
+or ſhal be bought and Retailed by Stablers and Inn keepers, within their own Houſes, with Certification, that ſuch as ſhal Contraveen the premiſſes in
+any ſort, may be Conveened and Purſued at the Inſtance of any perſon whatſomever, before any of the Magiſtrates; or Juſtices of Peace, or other Judges
+above named, where the Contravention is committed, and upon Conviction are to be Fyned, and made lyable in the Sum of ten pounds <hi>Scots</hi> for each
+B<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll or Meal, or other Victual Sold or Retailed, contrair to this preſent Procla<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation, and decerned to pay the one half to the Informer, and the other
+half to the Judge before whom the Contraveener ſhal be purſued and Convicted. Declaring, nevertheleſs, that it ſhal be Leiſum and Lawful to tranſport
+Oats bought benorth the River of Tay from that ſide thereof, to the ſouth ſide of the ſame, and to Sell the ſaids Oats either by whole Sale or Retaile, at any Place,
+or Mercat upon the Southſide of the ſaid River, for private uſe, or to be made in Meal allennarly without being ſubject and Lyable to the Certification<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+and penalties above-expreſt. And Laſtly. We with Advice foreſai<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mm<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd and Charge all Magiſtrates of Burghs, and other Officers of the Law
+to <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that all Mercats and Fairs be duely Regulate conform to the Laws, without Extortion and to cauſe put the foreſaid Acts of Parliament
+anent Forſtallers and Regraters, with this preſent Proclamation, to d<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and vigorous Execution, Certifying the ſaids Sheriffs, Magiſtrates and other
+Judges above-named, who ſhal faile in their duty anent the Premiſſe, that upon Information given to the Lords of Our P<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivy Council, they ſhal be
+therefore ſeverely and examplarly puniſhed, OUR WILL IS HEREFORE, and We charge you ſtrictly, and Command, that Incontin<g ref="char:EOLhyphen"/>ent
+thir Our Letters ſeen, ye paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and Remanent Mercat Croſses of the whole head Burgh of the ſeveral Shyres,
+and Stewartries within this Kingdom, and thereat in Our Name and Authority make Publication of the Premiſſes, that none may pretend Ignorance.
+And Ordains Our Sollicitor to tranſmit Coppies hereof to the Sheriffs <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Stewarts of the ſeveral Shyres and Stewartries, or their Clerks, to the effect
+the fame may published at the Mercat Croſſes and thereafter, be tran<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mitted to the Miniſters in the ſeveral Paroch Churches within their reſpective
+bounds and Appoints the ſaids Miniſters to cauſe Intimat the ſame at their ſe<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eral Paroch Churches, at any time betwixt and the firſt of <hi>December</hi>
+next, for all Paroches on this ſide of the River of <hi>Tay,</hi> and betwixt: fifteenth day of the ſaid Month for all Paroches on the other ſide of
+the ſaid River. And Ordains theſe preſents to be printed<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Given under Our Si<gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
